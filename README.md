@@ -5,7 +5,7 @@
 - 🔭 Currently building custom **AI integrations**, OCR automation pipelines, and LLM-driven tools.
 - ⚡ Tech stack focus: **Python**, **Laravel (PHP)**, **Node.js**, **MySQL**, and **Linux/Docker**.
 - 🛠️ Background in server management, REST API development, and network security.
-- 📍 Based in Southern Spain / Gibraltar area.
+- 📍 Based in Algeciras / Cádiz.
 
 ---
 
