@@ -21,8 +21,8 @@
 
 ### 📊 GitHub Stats
 
-![Nico's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radial)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radial)
+![Nico's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicogarcia0&show_icons=true&theme=radial)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicogarcia0&layout=compact&theme=radial)
 
 ---
 
