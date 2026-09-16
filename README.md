@@ -19,13 +19,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![Nico's GitHub stats](https://github-readme-stats-api-bay.vercel.app/api?username=nicogarcia0&show_icons=true&theme=radial)
-![Top Langs](https://github-readme-stats-api-bay.vercel.app/api/top-langs/?username=nicogarcia0&layout=compact&theme=radial)
-
----
-
 📫 **How to reach me:**
 - **Email:** nicogarciatirado0@gmail.com
 - **LinkedIn:** [linkedin.com/in/nicogarcia0](https://www.linkedin.com/in/nicogarcia0/)
